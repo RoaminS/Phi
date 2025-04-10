@@ -1,3 +1,9 @@
+Licence : Creative Commons BY-NC-SA 4.0
+
+Auteurs : 
+    - Kocupyr Romain (chef de projet) : rkocupyr@gmail.com
+    - Grok3
+
 # Ajouter en haut du script
 def phiracine_fixed(n, c=0.5):
     phi = 1.6180339887
