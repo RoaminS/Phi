@@ -189,7 +189,7 @@ Potentiel concret d'amélioration notable des performances des modèles existant
 La formule PhiStableCubiqueSpline ouvre la voie à de nouvelles possibilités d’analyses prédictives et de modélisation structurée des données. Son caractère unique, combinant la stabilité harmonique du nombre d'or avec la fluidité d'une interpolation spline cubique, lui confère un potentiel immédiat et remarquable d’innovation dans de multiples secteurs économiques, scientifiques et technologiques.
 
 Contact pour partenariat, implémentation ou collaboration :
-📧 support@web3-crypto.com
+📧 rkocupyr@gmail.com
 
 Publié officiellement par Romain ©️.
 Tous droits réservés. Reproduction interdite sans autorisation expresse préalable.
